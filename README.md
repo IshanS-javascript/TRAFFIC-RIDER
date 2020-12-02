@@ -1,2 +1,2 @@
-# Traffic-Rider
-A Car Racing Game
+# TRAFFIC-RIDER
+A CAR RACING GAME
